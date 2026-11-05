@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rali72526-creator.github.io/sitemap.xml
